@@ -4,10 +4,10 @@
 
 ### Full Stack Developer | Software Engineer | DSA Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/vaibhav-sharma](https://www.linkedin.com/in/vaibhav-sharma-90619a291/))
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vaibhavVS18)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhav.iiituna1111@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vaibhavVS18)
+<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vaibhavVS18)    -->
 
 </div>
 
@@ -18,7 +18,7 @@
 - 🎓 **B.Tech in Electronics and Communication Engineering** at **IIIT Una** (CGPA: 8.53)
 - 💼 **Full Stack Developer** at **YesCity** - Leading tech team and building scalable travel platforms
 - 💻 **10+ months of industry experience** in building production-ready applications
-- 🧠 **DSA Enthusiast** - Solved 400+ problems on LeetCode & 200+ on Coding Ninjas (Level 7)
+- 🧠 **DSA Enthusiast** - Solved 600+ problems on LeetCode & 200+ on Coding Ninjas (Level 7)
 - 🌱 Currently building **real-time collaboration tools** and **AI-powered applications**
 - 📍 Based in **Himachal Pradesh, India**
 
