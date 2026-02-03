@@ -28,6 +28,69 @@
 
 ---
 
+## 💻 Tech Stack
+
+🔤 Languages
+<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=c" width="48" height="48" /> <br>C </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" /> <br>C++ </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=js" width="48" height="48" /> <br>JavaScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" /> <br>TypeScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" /> <br>Python </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /> <br>SQL </td> </tr> </table>
+
+🎨 Frontend
+<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" /> <br>React </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" /> <br>Next.js </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" /> <br>Tailwind </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" /> <br>Bootstrap </td> </tr> </table>
+
+⚙️ Backend
+<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /> <br>Node.js </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=express" width="48" height="48" /> <br>Express </td> <td align="center" width="96">
+  <img src="https://socket.io/images/logo.svg" width="48" height="48" alt="Socket.IO" />
+  <br>Socket.IO
+</td>
+ </tr> </table>
+
+🗄️ Database & Cloud
+<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /> <br>MongoDB </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" /> <br>Firebase </td> <td align="center" width="96">
+  <img src="https://res.cloudinary.com/cloudinary/image/upload/v1/logo/for_white_bg/cloudinary_logo_for_white_bg.png"
+       width="48" height="28" alt="Cloudinary" />
+  <br>Cloudinary
+</td>
+ </tr> </table>
+
+🛠️ Tools & Technologies
+<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /> <br>Git </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=github" width="48" height="48" /> <br>GitHub </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /> <br>Postman </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" /> <br>Vercel </td>  <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /> <br> Figma </td>
+  <td align="center" width="96">
+  <img src="https://avatars.githubusercontent.com/u/101204197?s=200&v=4"
+       width="48" height="48" alt="Eraser" />
+  <br>Eraser
+</td>
+
+
+</tr> </table>
+
+---
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/vaibhavVS18">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavVS18&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vaibhavVS18">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavVS18&theme=radical" alt="Vaibhav's GitHub Contribution"/>
+  </a>
+</p> 
+
+<a> 
+    <a href="https://github.com/vaibhavVS18"><img alt="Vaibhav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vaibhavVS18&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/vaibhavVS18"><img alt="Vaibhav's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vaibhavVS18&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+---
+
+---
+
 ##  Professional Experience
 
 <table>
@@ -78,44 +141,7 @@
 </tr>
 </table>
 
----
 
-## 💻 Tech Stack
-
-🔤 Languages
-<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=c" width="48" height="48" /> <br>C </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" /> <br>C++ </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=js" width="48" height="48" /> <br>JavaScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" /> <br>TypeScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" /> <br>Python </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /> <br>SQL </td> </tr> </table>
-
-🎨 Frontend
-<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" /> <br>React </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" /> <br>Next.js </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" /> <br>Tailwind </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" /> <br>Bootstrap </td> </tr> </table>
-
-⚙️ Backend
-<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /> <br>Node.js </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=express" width="48" height="48" /> <br>Express </td> <td align="center" width="96">
-  <img src="https://socket.io/images/logo.svg" width="48" height="48" alt="Socket.IO" />
-  <br>Socket.IO
-</td>
- </tr> </table>
-
-🗄️ Database & Cloud
-<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /> <br>MongoDB </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" /> <br>Firebase </td> <td align="center" width="96">
-  <img src="https://res.cloudinary.com/cloudinary/image/upload/v1/logo/for_white_bg/cloudinary_logo_for_white_bg.png"
-       width="48" height="28" alt="Cloudinary" />
-  <br>Cloudinary
-</td>
- </tr> </table>
-
-🛠️ Tools & Technologies
-<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /> <br>Git </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=github" width="48" height="48" /> <br>GitHub </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /> <br>Postman </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" /> <br>Vercel </td>  <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /> <br> Figma </td>
-  <td align="center" width="96">
-  <img src="https://avatars.githubusercontent.com/u/101204197?s=200&v=4"
-       width="48" height="48" alt="Eraser" />
-  <br>Eraser
-</td>
-
-
-</tr> </table>
-
----
 
 ## 🌟 Featured Projects
 
@@ -204,29 +230,7 @@
 </tr>
 </table>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/vaibhavVS18">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavVS18&theme=radical&hide_border=false" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vaibhavVS18">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavVS18&theme=radical" alt="Vaibhav's GitHub Contribution"/>
-  </a>
-</p> 
-
-<a> 
-    <a href="https://github.com/vaibhavVS18"><img alt="Vaibhav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vaibhavVS18&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/vaibhavVS18"><img alt="Vaibhav's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vaibhavVS18&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
----
 
 ## 🏆 Achievements
 
