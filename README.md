@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.iiituna1111@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhavVS18&color=blueviolet&style=for-the-badge)
+
 </div>
 
 ---
@@ -26,14 +28,25 @@
 
 ## 💼 Professional Experience
 
-### 🏢 Full Stack Developer & Tech Team Lead | YesCity
-**Aug 2025 - Present**
+<table>
+<tr>
+<td width="20%" align="center">
+<img src="https://img.shields.io/badge/YesCity-Travel_Platform-2196F3?style=for-the-badge" alt="YesCity"/>
+</td>
+<td width="80%">
+
+### 🏢 Full Stack Developer & Tech Team Lead
+**YesCity** • *Aug 2025 - Present*
 
 - 🚀 Leading development of a **travel assistance platform** using **Next.js 13+**, **MongoDB**, and **Firebase**
 - 🤖 Integrated **RAG-based AI chatbot** using **OpenAI API** for personalized travel recommendations
 - 💬 Built real-time features: **group chat (Connect)** and **one-to-one chat (BuddyConnect)** using **Pusher**
 - 📊 Developed **Analytics Dashboard** for tracking user engagement and platform metrics
 - 👥 Managing tech team: assigning tasks, reviewing PRs, ensuring scalable architecture
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -74,76 +87,99 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="60%">
 
-### 🛍️ TrueSeller - Connecting Local Sellers to Online Buyers
+### 🛍️ TrueSeller
+**Connecting Local Sellers to Online Buyers**
 
-[![TrueSeller Logo](https://img.shields.io/badge/🛍️_TrueSeller-FF6B6B?style=for-the-badge)](https://trueseller-frontend.vercel.app/)
-
-**[🔗 Live Demo](https://trueseller-frontend.vercel.app/) | [💻 GitHub](https://github.com/vaibhavVS18/trueseller)**
-
-</div>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://trueseller-frontend.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18/trueseller)
 
 - 🏗️ Full-stack **MERN** platform enabling local shopkeepers to sell products online
 - 🔐 Implemented **JWT authentication**, secure payment gateway, and **Cloudinary** integration
 - 💳 Built buyer interface with state-wise product exploration, COD & online payment options
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://via.placeholder.com/300x200/FF6B6B/FFFFFF?text=TrueSeller+Screenshot" alt="TrueSeller" width="100%"/>
+
+*Replace this URL with your actual TrueSeller project image*
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="60%">
 
-### 💬 CodChat - Real-time Project Collaboration Platform
+### 💬 CodChat
+**Real-time Project Collaboration Platform**
 
-[![CodChat Logo](https://img.shields.io/badge/💬_CodChat-4A90E2?style=for-the-badge)](https://codchat.vercel.app/)
-
-**[🔗 Live Demo](https://codchat.vercel.app/) | [💻 GitHub](https://github.com/vaibhavVS18/codchat)**
-
-</div>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://codchat.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18/codchat)
 
 - 🤝 Real-time collaborative platform for developers using **Socket.io**
 - 🤖 Integrated **OpenAI API** for AI-powered code generation, debugging, and problem-solving
 - 👥 Built project rooms with chat, collaborator management, and session persistence
-- **Tech Stack:** MERN Stack, Socket.io, OpenAI API, JWT
+
+**Tech Stack:** MERN Stack, Socket.io, OpenAI API, JWT
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://via.placeholder.com/300x200/4A90E2/FFFFFF?text=CodChat+Screenshot" alt="CodChat" width="100%"/>
+
+*Replace this URL with your actual CodChat project image*
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="60%">
 
-### 🎫 JustScan - Smart Entry Management System
+### 🎫 JustScan
+**Smart Entry Management System**
 
-[![JustScan Logo](https://img.shields.io/badge/🎫_JustScan-50C878?style=for-the-badge)](https://github.com/vaibhavVS18/justscan)
-
-**[💻 GitHub](https://github.com/vaibhavVS18/justscan)**
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18/justscan)
 
 - 📸 Automated entry system using **Tesseract.js OCR** to extract data from ID cards
 - 🔒 Secure authentication with **Google OAuth** (Passport.js)
 - 📊 Auto-populated entry logs with role-based access control
-- **Tech Stack:** Node.js, Express.js, MongoDB, Tesseract.js, OAuth, EJS
+
+**Tech Stack:** Node.js, Express.js, MongoDB, Tesseract.js, OAuth, EJS
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://via.placeholder.com/300x200/50C878/FFFFFF?text=JustScan+Screenshot" alt="JustScan" width="100%"/>
+
+*Replace this URL with your actual JustScan project image*
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <!-- <a href="https://github.com/vaibhavVS18">
-    <img src="https://github-readme-stats.vercel.app/api?username=vaibhavVS18&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=false" alt="GitHub Stats"/>
-  </a> -->
   <a href="https://github.com/vaibhavVS18">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavVS18&theme=radical&hide_border=false" alt="GitHub Streak"/>
   </a>
-  <!-- <a href="https://github.com/vaibhavVS18">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavVS18&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-  </a> -->
 </p>
-
-
-<!-- <p align="center">
-  <a href="https://github.com/vaibhavVS18">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavVS18&theme=radical&border=7F3FBF&background=0D1117" alt="Vaibhav's GitHub streak"/>
-  </a>
-</p>  -->
 
 <p align="center">
   <a href="https://github.com/vaibhavVS18">
@@ -156,7 +192,6 @@
   <a href="https://github.com/vaibhavVS18"><img alt="Vaibhav's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vaibhavVS18&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
 
 ---
 
@@ -173,7 +208,7 @@
 
 <div align="center">
 
-![Vaibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavVS18&theme=react-dark&hide_border=true)
+![Vaibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavVS18&theme=react-dark&hide_border=true&area=true&custom_title=Total%20Contribution%20Graph)
 
 </div>
 
@@ -203,7 +238,5 @@ I'm always open to collaborating on interesting projects, discussing tech, or ju
 <div align="center">
   
 ### ⭐ From [vaibhavVS18](https://github.com/vaibhavVS18)
-
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhavVS18&color=blueviolet&style=flat-square)
 
 </div>
