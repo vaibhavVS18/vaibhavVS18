@@ -94,7 +94,7 @@
 ### 🛍️ TrueSeller
 **Connecting Local Sellers to Online Buyers**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://trueseller-frontend.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://trueseller.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18/trueseller)
 
 - 🏗️ Full-stack **MERN** platform enabling local shopkeepers to sell products online
@@ -104,11 +104,10 @@
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary
 
 </td>
-<td width="40%" align="center">
+<td width="20%" align="center">
 
-<img src="truesellerLogo.png" alt="TrueSeller" width="100%"/>
+<img src="truesellerLogo.png" alt="TrueSeller" width="80%"/>
 
-*Replace this URL with your actual TrueSeller project image*
 
 </td>
 </tr>
@@ -123,7 +122,7 @@
 ### 💬 CodChat
 **Real-time Project Collaboration Platform**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://codchat.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://cod-chat-nine.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18/codchat)
 
 - 🤝 Real-time collaborative platform for developers using **Socket.io**
@@ -133,11 +132,10 @@
 **Tech Stack:** MERN Stack, Socket.io, OpenAI API, JWT
 
 </td>
-<td width="40%" align="center">
+<td width="20%" align="center">
 
-<img src="https://via.placeholder.com/300x200/4A90E2/FFFFFF?text=CodChat+Screenshot" alt="CodChat" width="100%"/>
-
-*Replace this URL with your actual CodChat project image*
+<!-- <img src="codchatLogo.png" alt="CodChat" width="80%"/>   -->
+<img src="chatcode.png" alt="CodChat" width="100%"/>
 
 </td>
 </tr>
@@ -161,11 +159,10 @@
 **Tech Stack:** Node.js, Express.js, MongoDB, Tesseract.js, OAuth, EJS
 
 </td>
-<td width="40%" align="center">
+<td width="20%" align="center">
 
-<img src="https://via.placeholder.com/300x200/50C878/FFFFFF?text=JustScan+Screenshot" alt="JustScan" width="100%"/>
+<img src="justscanit.png" alt="JustScan" width="100%"/>
 
-*Replace this URL with your actual JustScan project image*
 
 </td>
 </tr>
