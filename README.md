@@ -4,10 +4,10 @@
 
 ### Full Stack Developer | Software Engineer | DSA Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/vaibhav-sharma](https://www.linkedin.com/in/vaibhav-sharma-90619a291/))
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vaibhavVS18)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhav.iiituna1111@gmail.com)
-<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vaibhavVS18)    -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vaibhavportfolio.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sharma-90619a291/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.iiituna1111@gmail.com)
 
 </div>
 
@@ -74,22 +74,50 @@
 
 ## 🌟 Featured Projects
 
-### 🛍️ [TrueSeller](https://github.com/vaibhavVS18/trueseller)
-**Connecting Local Sellers to Online Buyers**
+<div align="center">
+
+### 🛍️ TrueSeller - Connecting Local Sellers to Online Buyers
+
+[![TrueSeller Logo](https://img.shields.io/badge/🛍️_TrueSeller-FF6B6B?style=for-the-badge)](https://trueseller-frontend.vercel.app/)
+
+**[🔗 Live Demo](https://trueseller-frontend.vercel.app/) | [💻 GitHub](https://github.com/vaibhavVS18/trueseller)**
+
+</div>
+
 - 🏗️ Full-stack **MERN** platform enabling local shopkeepers to sell products online
 - 🔐 Implemented **JWT authentication**, secure payment gateway, and **Cloudinary** integration
 - 💳 Built buyer interface with state-wise product exploration, COD & online payment options
 - **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary
 
-### 💬 [CodChat](https://github.com/vaibhavVS18/codchat)
-**Real-time Project Collaboration Platform**
+---
+
+<div align="center">
+
+### 💬 CodChat - Real-time Project Collaboration Platform
+
+[![CodChat Logo](https://img.shields.io/badge/💬_CodChat-4A90E2?style=for-the-badge)](https://codchat.vercel.app/)
+
+**[🔗 Live Demo](https://codchat.vercel.app/) | [💻 GitHub](https://github.com/vaibhavVS18/codchat)**
+
+</div>
+
 - 🤝 Real-time collaborative platform for developers using **Socket.io**
 - 🤖 Integrated **OpenAI API** for AI-powered code generation, debugging, and problem-solving
 - 👥 Built project rooms with chat, collaborator management, and session persistence
 - **Tech Stack:** MERN Stack, Socket.io, OpenAI API, JWT
 
-### 🎫 [JustScan](https://github.com/vaibhavVS18/justscan)
-**Smart Entry Management System**
+---
+
+<div align="center">
+
+### 🎫 JustScan - Smart Entry Management System
+
+[![JustScan Logo](https://img.shields.io/badge/🎫_JustScan-50C878?style=for-the-badge)](https://github.com/vaibhavVS18/justscan)
+
+**[💻 GitHub](https://github.com/vaibhavVS18/justscan)**
+
+</div>
+
 - 📸 Automated entry system using **Tesseract.js OCR** to extract data from ID cards
 - 🔒 Secure authentication with **Google OAuth** (Passport.js)
 - 📊 Auto-populated entry logs with role-based access control
@@ -100,18 +128,27 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavVS18&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavVS18&theme=radical&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhavVS18&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavVS18&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavVS18&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavVS18&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </div>
 
 ---
 
 ## 🏆 Achievements
+
+<div align="center">
+
+![LeetCode](https://img.shields.io/badge/LeetCode-600+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-Level_7-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.55-4CAF50?style=for-the-badge&logo=academia&logoColor=white)
+![YesCity](https://img.shields.io/badge/YesCity-Internship_Certificate-2196F3?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
 
 - ✅ **600+ Problems** solved on **LeetCode** - Mastered DSA concepts
 - ✅ **Level 7** achieved on **Coding Ninjas** with **200+ problems** solved
@@ -120,19 +157,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavVS18&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
-[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavVS18&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+![Vaibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavVS18&theme=react-dark&hide_border=true)
+
+</div>
 
 ---
 
@@ -151,6 +182,7 @@
 I'm always open to collaborating on interesting projects, discussing tech, or just having a chat about software development!
 
 - 💼 **Open to:** Full-time opportunities, freelance projects, and collaborations
+- 🌐 **Portfolio:** [vaibhavportfolio.in](https://vaibhavportfolio.in)
 - 📧 **Email:** [vaibhav.iiituna1111@gmail.com](mailto:vaibhav.iiituna1111@gmail.com)
 - 💬 **Ask me about:** MERN Stack, Next.js, Real-time Applications, DSA, System Design
 
