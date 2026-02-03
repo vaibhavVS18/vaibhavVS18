@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech in Electronics and Communication Engineering** at **IIIT Una** (CGPA: 8.53)
+- 🎓 **B.Tech in Electronics and Communication Engineering** at **IIIT Una** (CGPA: 8.55)
 - 💼 **Full Stack Developer** at **YesCity** - Leading tech team and building scalable travel platforms
 - 💻 **10+ months of industry experience** in building production-ready applications
 - 🧠 **DSA Enthusiast** - Solved 600+ problems on LeetCode & 200+ on Coding Ninjas (Level 7)
@@ -113,10 +113,10 @@
 
 ## 🏆 Achievements
 
-- ✅ **400+ Problems** solved on **LeetCode** - Mastered DSA concepts
+- ✅ **600+ Problems** solved on **LeetCode** - Mastered DSA concepts
 - ✅ **Level 7** achieved on **Coding Ninjas** with **200+ problems** solved
 - 🎓 **Completion Certificate** from YesCity Full-Stack Development Internship
-- 🎯 **CGPA 8.53** in B.Tech Electronics and Communication Engineering
+- 🎯 **CGPA 8.55** in B.Tech Electronics and Communication Engineering
 
 ---
 
