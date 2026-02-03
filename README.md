@@ -3,17 +3,19 @@
 # 👋 Hi, I'm Vaibhav Sharma
 
 ### Full Stack Developer | Software Engineer | DSA Enthusiast
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhavVS18&color=blueviolet&style=for-the-badge)
 
+# 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vaibhavportfolio.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sharma-90619a291/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.iiituna1111@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhavVS18&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
+
 
 ##  About Me
 
@@ -136,8 +138,9 @@
 </td>
 <td width="20%" align="center">
 
+<a href="https://trueseller.vercel.app" target="_blank">
 <img src="truesellerLogo.png" alt="TrueSeller" width="80%"/>
-
+</a>
 
 </td>
 </tr>
@@ -165,7 +168,9 @@
 <td width="20%" align="center">
 
 <!-- <img src="codchatLogo.png" alt="CodChat" width="80%"/>   -->
+<a href="https://cod-chat-nine.vercel.app" target="_blank">
 <img src="chatcode.png" alt="CodChat" width="100%"/>
+</a>
 
 </td>
 </tr>
@@ -191,8 +196,9 @@
 </td>
 <td width="20%" align="center">
 
+<a href="https://github.com/vaibhavVS18/justscan" target="_blank">
 <img src="justscanit.png" alt="JustScan" width="100%"/>
-
+</a>
 
 </td>
 </tr>
