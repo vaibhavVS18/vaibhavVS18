@@ -126,29 +126,41 @@
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <!-- <a href="https://github.com/vaibhavVS18">
+    <img src="https://github-readme-stats.vercel.app/api?username=vaibhavVS18&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=false" alt="GitHub Stats"/>
+  </a> -->
+  <a href="https://github.com/vaibhavVS18">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavVS18&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  </a>
+  <!-- <a href="https://github.com/vaibhavVS18">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavVS18&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  </a> -->
+</p>
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhavVS18&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<!-- <p align="center">
+  <a href="https://github.com/vaibhavVS18">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavVS18&theme=radical&border=7F3FBF&background=0D1117" alt="Vaibhav's GitHub streak"/>
+  </a>
+</p>  -->
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavVS18&theme=radical&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <a href="https://github.com/vaibhavVS18">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavVS18&theme=radical" alt="Vaibhav's GitHub Contribution"/>
+  </a>
+</p> 
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavVS18&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<a> 
+    <a href="https://github.com/vaibhavVS18"><img alt="Vaibhav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vaibhavVS18&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/vaibhavVS18"><img alt="Vaibhav's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vaibhavVS18&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
-</div>
 
 ---
 
 ## 🏆 Achievements
-
-<div align="center">
-
-![LeetCode](https://img.shields.io/badge/LeetCode-600+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-Level_7-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.55-4CAF50?style=for-the-badge&logo=academia&logoColor=white)
-![YesCity](https://img.shields.io/badge/YesCity-Internship_Certificate-2196F3?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
 
 - ✅ **600+ Problems** solved on **LeetCode** - Mastered DSA concepts
 - ✅ **Level 7** achieved on **Coding Ninjas** with **200+ problems** solved
