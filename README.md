@@ -106,7 +106,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://via.placeholder.com/300x200/FF6B6B/FFFFFF?text=TrueSeller+Screenshot" alt="TrueSeller" width="100%"/>
+<img src="truesellerLogo.png" alt="TrueSeller" width="100%"/>
 
 *Replace this URL with your actual TrueSeller project image*
 
