@@ -15,34 +15,34 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 **B.Tech in Electronics and Communication Engineering** at **IIIT Una** (CGPA: 8.55)
-- 💼 **Full Stack Developer** at **YesCity** - Leading tech team and building scalable travel platforms
-- 💻 **10+ months of industry experience** in building production-ready applications
-- 🧠 **DSA Enthusiast** - Solved 600+ problems on LeetCode & 200+ on Coding Ninjas (Level 7)
-- 🌱 Currently building **real-time collaboration tools** and **AI-powered applications**
-- 📍 Based in **Himachal Pradesh, India**
+- ⚡ **B.Tech in Electronics and Communication Engineering** at **IIIT Una** (CGPA: 8.55)
+- ⚡ **Full Stack Developer** at **YesCity** - Leading tech team and building scalable travel platforms
+- ⚡ **10+ months of industry experience** in building production-ready applications
+- ⚡ **DSA Enthusiast** - Solved 600+ problems on LeetCode & 200+ on Coding Ninjas (Level 7)
+- ⚡ Currently building **real-time collaboration tools** and **AI-powered applications**
+- ⚡ Based in **Himachal Pradesh, India**
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 <table>
 <tr>
 <td width="75%">
 
-### 🏢 YesCity Full Stack Developer & Tech Team Lead (6+ months)
+###  YesCity Full Stack Developer & Tech Team Lead (6+ months)
   🚀 Started as Full Stack Developer Intern & currently leading YesCity tech team
 <br/><br/>
        **[YesCity](https://yescity.in)** - *Travel Assistance Platform*
 
 **Key Contributions:**
-- Led development of scalable travel platform using **Next.js 13+**, **MongoDB**, and **Firebase**
-- Integrated RAG-based AI chatbot for personalized travel recommendations
-- Built real-time group chat (Connect) and P2P chat (BuddyConnect) using **Pusher**
-- Developed Analytics Dashboard for tracking user engagement and platform metrics
-- Managing tech team, conducting code reviews, and ensuring scalable architecture
+- ⚡Led development of scalable travel platform using **Next.js 13+**, **MongoDB**, and **Firebase**
+- ⚡Integrated RAG-based AI chatbot for personalized travel recommendations
+- ⚡Built real-time group chat (Connect) and P2P chat (BuddyConnect) using **Pusher**
+- ⚡Developed Analytics Dashboard for tracking user engagement and platform metrics
+- ⚡Managing tech team, conducting code reviews, and ensuring scalable architecture
 
 **Impact:**
 - Transitioned from Developer to Tech Team Lead
@@ -78,38 +78,40 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+🔤 Languages
+<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=c" width="48" height="48" /> <br>C </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" /> <br>C++ </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=js" width="48" height="48" /> <br>JavaScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" /> <br>TypeScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" /> <br>Python </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /> <br>SQL </td> </tr> </table>
 
-### Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+🎨 Frontend
+<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" /> <br>React </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" /> <br>Next.js </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" /> <br>Tailwind </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" /> <br>Bootstrap </td> </tr> </table>
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+⚙️ Backend
+<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /> <br>Node.js </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=express" width="48" height="48" /> <br>Express </td> <td align="center" width="96">
+  <img src="https://socket.io/images/logo.svg" width="48" height="48" alt="Socket.IO" />
+  <br>Socket.IO
+</td>
+ </tr> </table>
 
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
+🗄️ Database & Cloud
+<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /> <br>MongoDB </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" /> <br>Firebase </td> <td align="center" width="96">
+  <img src="https://res.cloudinary.com/cloudinary/image/upload/v1/logo/for_white_bg/cloudinary_logo_for_white_bg.png"
+       width="48" height="28" alt="Cloudinary" />
+  <br>Cloudinary
+</td>
+ </tr> </table>
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+🛠️ Tools & Technologies
+<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /> <br>Git </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=github" width="48" height="48" /> <br>GitHub </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /> <br>Postman </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" /> <br>Vercel </td>  <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /> <br> Figma </td>
+  <td align="center" width="96">
+  <img src="https://avatars.githubusercontent.com/u/101204197?s=200&v=4"
+       width="48" height="48" alt="Eraser" />
+  <br>Eraser
+</td>
+
+
+</tr> </table>
 
 ---
 
@@ -125,9 +127,9 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://trueseller.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18/trueseller)
 
-- 🏗️ Full-stack **MERN** platform enabling local shopkeepers to sell products online
-- 🔐 Implemented **JWT authentication**, secure payment gateway, and **Cloudinary** integration
-- 💳 Built buyer interface with state-wise product exploration, COD & online payment options
+- ⚡ Full-stack **MERN** platform enabling local shopkeepers to sell products online
+- ⚡ Implemented **JWT authentication**, secure payment gateway, and **Cloudinary** integration
+- ⚡ Built buyer interface with state-wise product exploration, COD & online payment options
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary
 
@@ -153,9 +155,9 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://cod-chat-nine.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18/codchat)
 
-- 🤝 Real-time collaborative platform for developers using **Socket.io**
-- 🤖 Integrated **OpenAI API** for AI-powered code generation, debugging, and problem-solving
-- 👥 Built project rooms with chat, collaborator management, and session persistence
+- ⚡ Real-time collaborative platform for developers using **Socket.io**
+- ⚡ Integrated **OpenAI API** for AI-powered code generation, debugging, and problem-solving
+- ⚡ Built project rooms with chat, collaborator management, and session persistence
 
 **Tech Stack:** MERN Stack, Socket.io, OpenAI API, JWT
 
@@ -180,9 +182,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18/justscan)
 
-- 📸 Automated entry system using **Tesseract.js OCR** to extract data from ID cards
-- 🔒 Secure authentication with **Google OAuth** (Passport.js)
-- 📊 Auto-populated entry logs with role-based access control
+- ⚡ Automated entry system using **Tesseract.js OCR** to extract data from ID cards
+- ⚡ Secure authentication with **Google OAuth** (Passport.js)
+- ⚡ Auto-populated entry logs with role-based access control
 
 **Tech Stack:** Node.js, Express.js, MongoDB, Tesseract.js, OAuth, EJS
 
