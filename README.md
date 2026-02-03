@@ -30,19 +30,47 @@
 
 <table>
 <tr>
-<td width="20%" align="center">
-<img src="https://img.shields.io/badge/YesCity-Travel_Platform-2196F3?style=for-the-badge" alt="YesCity"/>
+<td width="75%">
+
+### 🏢 YesCity Full Stack Developer & Tech Team Lead (6+ months)
+  🚀 Started as Full Stack Developer Intern & currently leading YesCity tech team
+<br/><br/>
+       **[YesCity](https://yescity.in)** - *Travel Assistance Platform*
+
+**Key Contributions:**
+- Led development of scalable travel platform using **Next.js 13+**, **MongoDB**, and **Firebase**
+- Integrated RAG-based AI chatbot for personalized travel recommendations
+- Built real-time group chat (Connect) and P2P chat (BuddyConnect) using **Pusher**
+- Developed Analytics Dashboard for tracking user engagement and platform metrics
+- Managing tech team, conducting code reviews, and ensuring scalable architecture
+
+**Impact:**
+- Transitioned from Developer to Tech Team Lead
+- Implemented secure Firebase (OTP) and JWT authentication
+- Delivered production-ready features with 99%+ uptime
+
 </td>
-<td width="80%">
+<td width="25%" align="center">
 
-### 🏢 Full Stack Developer & Tech Team Lead
-**YesCity** • *Aug 2025 - Present*
+<a href="https://yescity.in" target="_blank">
+<img src="yesCityLogo.png" alt="YesCity" width="180" style="margin-top: 20px;"/>
+</a>
 
-- 🚀 Leading development of a **travel assistance platform** using **Next.js 13+**, **MongoDB**, and **Firebase**
-- 🤖 Integrated **RAG-based AI chatbot** using **OpenAI API** for personalized travel recommendations
-- 💬 Built real-time features: **group chat (Connect)** and **one-to-one chat (BuddyConnect)** using **Pusher**
-- 📊 Developed **Analytics Dashboard** for tracking user engagement and platform metrics
-- 👥 Managing tech team: assigning tasks, reviewing PRs, ensuring scalable architecture
+<br/><br/>
+
+<table style="border: 2px solid #2196F3; border-radius: 8px; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e3f2fd 100%);">
+<tr>
+<td align="center">
+<strong style="font-size: 15px; color: #1565C0;">Contributing</strong><br/>
+<span style="color: #FF6B35; font-size: 16px; font-weight: bold;">6+ months</span><br/>
+<span style="color: #666; font-size: 12px;">Aug 2024 - Present</span><br/><br/>
+<em style="color: #FF9800; font-size: 14px; font-weight: bold;">Currently: Tech Team Lead</em><br/><br/>
+<a href="https://yescity.in" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/Visit-YesCity-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit YesCity"/>
+</a>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
