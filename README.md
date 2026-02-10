@@ -145,6 +145,38 @@
 
 ## 🌟 Featured Projects
 
+
+
+---
+
+<table>
+<tr>
+<td width="60%">
+
+### 💬 CodChat
+**Real-time Project Collaboration Platform**
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://cod-chat-nine.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18/codchat)
+
+- ⚡ Real-time collaborative platform for developers using **Socket.io**
+- ⚡ Integrated **OpenAI API** for AI-powered code generation, debugging, and problem-solving
+- ⚡ Built project rooms with chat, collaborator management, and session persistence
+
+**Tech Stack:** MERN Stack, Socket.io, OpenAI API, JWT
+
+</td>
+<td width="20%" align="center">
+
+<!-- <img src="codchatLogo.png" alt="CodChat" width="80%"/>   -->
+<a href="https://cod-chat-nine.vercel.app" target="_blank">
+<img src="chatcode.png" alt="CodChat" width="100%"/>
+</a>
+
+</td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td width="60%">
@@ -178,39 +210,10 @@
 <tr>
 <td width="60%">
 
-### 💬 CodChat
-**Real-time Project Collaboration Platform**
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://cod-chat-nine.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18/codchat)
-
-- ⚡ Real-time collaborative platform for developers using **Socket.io**
-- ⚡ Integrated **OpenAI API** for AI-powered code generation, debugging, and problem-solving
-- ⚡ Built project rooms with chat, collaborator management, and session persistence
-
-**Tech Stack:** MERN Stack, Socket.io, OpenAI API, JWT
-
-</td>
-<td width="20%" align="center">
-
-<!-- <img src="codchatLogo.png" alt="CodChat" width="80%"/>   -->
-<a href="https://cod-chat-nine.vercel.app" target="_blank">
-<img src="chatcode.png" alt="CodChat" width="100%"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="60%">
-
 ### 🎫 JustScan
 **Smart Entry Management System**
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://justscanpro.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18/justscan)
 
 - ⚡ Automated entry system using **Tesseract.js OCR** to extract data from ID cards
@@ -222,7 +225,7 @@
 </td>
 <td width="20%" align="center">
 
-<a href="https://github.com/vaibhavVS18/justscan" target="_blank">
+<a href="https://justscanpro.vercel.app" target="_blank">
 <img src="justscanit.png" alt="JustScan" width="100%"/>
 </a>
 
