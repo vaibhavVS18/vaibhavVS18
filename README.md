@@ -181,6 +181,33 @@
 <tr>
 <td width="60%">
 
+### 🎫 JustScan
+**Smart Entry Management System**
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://justscanpro.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18/justscan)
+
+- ⚡ Automated entry system using **Tesseract.js OCR** to extract data from ID cards
+- ⚡ Secure authentication with **Google OAuth** (Passport.js)
+- ⚡ Auto-populated entry logs with role-based access control
+
+**Tech Stack:** Node.js, Express.js, MongoDB, Tesseract.js ,nodemailer(OTP based auth ), Google OAuth , React, TailwindCSS, OpenAI
+
+</td>
+<td width="20%" align="center">
+
+<a href="https://justscanpro.vercel.app" target="_blank">
+<img src="justscanit.png" alt="JustScan" width="100%"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="60%">
+
 ### 🛍️ TrueSeller
 **Connecting Local Sellers to Online Buyers**
 
@@ -206,32 +233,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="60%">
-
-### 🎫 JustScan
-**Smart Entry Management System**
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://justscanpro.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavVS18/justscan)
-
-- ⚡ Automated entry system using **Tesseract.js OCR** to extract data from ID cards
-- ⚡ Secure authentication with **Google OAuth** (Passport.js)
-- ⚡ Auto-populated entry logs with role-based access control
-
-**Tech Stack:** Node.js, Express.js, MongoDB, Tesseract.js, OAuth, EJS
-
-</td>
-<td width="20%" align="center">
-
-<a href="https://justscanpro.vercel.app" target="_blank">
-<img src="justscanit.png" alt="JustScan" width="100%"/>
-</a>
-
-</td>
-</tr>
-</table>
 
 
 
